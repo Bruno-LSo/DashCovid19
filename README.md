@@ -24,10 +24,9 @@ Os dados originais são fornecidos pelo Ministério da Saúde:
 ## Como Clonar o Repositório
 No seu computador, abra um terminal e execute:
 ```bash
-git clone https://github.com/SEU_USUARIO/SEU_REPOSITORIO.git
-cd SEU_REPOSITORIO
+git clone https://github.com/Bruno-LSo/DashCovid19.git
+cd DashCovid19
 ```
-> **Substitua** `https://github.com/SEU_USUARIO/SEU_REPOSITORIO.git` pela URL real do repositório.
 
 ## Pré-requisitos
 - **Python 3.7+** instalado
